@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
 
 ## Tasks Achieved
 * Created the Git hub repository for the project on Github profile
